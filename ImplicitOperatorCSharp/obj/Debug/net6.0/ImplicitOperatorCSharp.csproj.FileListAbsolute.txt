@@ -1,0 +1,15 @@
+D:\WorkspaceCSharp\ImplicitOperatorCSharp\ImplicitOperatorCSharp\bin\Debug\net6.0\ImplicitOperatorCSharp.exe
+D:\WorkspaceCSharp\ImplicitOperatorCSharp\ImplicitOperatorCSharp\bin\Debug\net6.0\ImplicitOperatorCSharp.deps.json
+D:\WorkspaceCSharp\ImplicitOperatorCSharp\ImplicitOperatorCSharp\bin\Debug\net6.0\ImplicitOperatorCSharp.runtimeconfig.json
+D:\WorkspaceCSharp\ImplicitOperatorCSharp\ImplicitOperatorCSharp\bin\Debug\net6.0\ImplicitOperatorCSharp.dll
+D:\WorkspaceCSharp\ImplicitOperatorCSharp\ImplicitOperatorCSharp\bin\Debug\net6.0\ImplicitOperatorCSharp.pdb
+D:\WorkspaceCSharp\ImplicitOperatorCSharp\ImplicitOperatorCSharp\obj\Debug\net6.0\ImplicitOperatorCSharp.csproj.AssemblyReference.cache
+D:\WorkspaceCSharp\ImplicitOperatorCSharp\ImplicitOperatorCSharp\obj\Debug\net6.0\ImplicitOperatorCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkspaceCSharp\ImplicitOperatorCSharp\ImplicitOperatorCSharp\obj\Debug\net6.0\ImplicitOperatorCSharp.AssemblyInfoInputs.cache
+D:\WorkspaceCSharp\ImplicitOperatorCSharp\ImplicitOperatorCSharp\obj\Debug\net6.0\ImplicitOperatorCSharp.AssemblyInfo.cs
+D:\WorkspaceCSharp\ImplicitOperatorCSharp\ImplicitOperatorCSharp\obj\Debug\net6.0\ImplicitOperatorCSharp.csproj.CoreCompileInputs.cache
+D:\WorkspaceCSharp\ImplicitOperatorCSharp\ImplicitOperatorCSharp\obj\Debug\net6.0\ImplicitOperatorCSharp.dll
+D:\WorkspaceCSharp\ImplicitOperatorCSharp\ImplicitOperatorCSharp\obj\Debug\net6.0\refint\ImplicitOperatorCSharp.dll
+D:\WorkspaceCSharp\ImplicitOperatorCSharp\ImplicitOperatorCSharp\obj\Debug\net6.0\ImplicitOperatorCSharp.pdb
+D:\WorkspaceCSharp\ImplicitOperatorCSharp\ImplicitOperatorCSharp\obj\Debug\net6.0\ImplicitOperatorCSharp.genruntimeconfig.cache
+D:\WorkspaceCSharp\ImplicitOperatorCSharp\ImplicitOperatorCSharp\obj\Debug\net6.0\ref\ImplicitOperatorCSharp.dll
